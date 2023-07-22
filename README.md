@@ -21,6 +21,7 @@
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - N/A
 - [ggerganov/ggml](https://github.com/ggerganov/ggml) - N/A
 - [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code) - N/A
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - N/A
 
 ### Vector Database
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - The AI-native open-source embedding database
