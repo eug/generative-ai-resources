@@ -4,6 +4,7 @@
 ### Self-hosted
 - [psychic-api/rag-stack](https://github.com/psychic-api/rag-stack) - Deploy a private ChatGPT alternative hosted within your VPC
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - Web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI 
 - [melih-unsal/DemoGPT](https://github.com/melih-unsal/DemoGPT) - Create 🦜️🔗 LangChain apps by just using prompts with the power of Llama 2
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - An ecosystem of open-source chatbots trained on a massive collection of clean assistant data including code, stories, and dialogue
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop app for GPT/LLM that supports Windows, Mac, Linux & Web Online
@@ -37,6 +38,9 @@
 - [microsoft/guidance](https://github.com/microsoft/guidance) - A guidance language for controlling large language models.
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - Building applications with LLMs through composability
 - [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - Langflow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
+- [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - Run large language models at home, BitTorrent-style. 
+- [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - An experimental AI framework for automated short/video content creation.
+
 
 ### Platform
 - [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
@@ -52,6 +56,7 @@
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [RootbeerComputer/backend-GPT](https://github.com/RootbeerComputer/backend-GPT) - N/A
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic 
 - [kxxt/chatgpt-action](https://github.com/kxxt/chatgpt-action) - N/A
 
 ### Data Analysis
