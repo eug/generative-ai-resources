@@ -40,7 +40,7 @@
 - [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - Langflow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - Run large language models at home, BitTorrent-style. 
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - An experimental AI framework for automated short/video content creation.
-
+- [langsmith](https://www.langchain.com/langsmith) -  A unified platform for debugging, testing, evaluating, and monitoring your LLM applications.
 
 ### Platform
 - [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
