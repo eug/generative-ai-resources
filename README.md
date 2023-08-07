@@ -48,6 +48,7 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - A Server for Artificial Intelligence Logic. Enabling developers to ship to production AI-powered projects
+- [LangSmith](https://smith.langchain.com/) - N/A
   
 ### Software Development
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
