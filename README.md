@@ -72,3 +72,4 @@
 - [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - N/A
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - N/A
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - N/A
+- [LLM Numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM Developer should know
