@@ -41,7 +41,8 @@
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - Run large language models at home, BitTorrent-style. 
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - An experimental AI framework for automated short/video content creation.
 - [langsmith](https://www.langchain.com/langsmith) -  A unified platform for debugging, testing, evaluating, and monitoring your LLM applications.
-- [ShreyaR/guardrails](https://github.com/ShreyaR/guardrails) - Adding guardrails to large language models. 
+- [ShreyaR/guardrails](https://github.com/ShreyaR/guardrails) - Adding guardrails to large language models.
+- [hegelai/prompttools](https://github.com/hegelai/prompttools) - Tools for prompt testing and experimentation, with support for both LLMs
 
 
 ### Platform
