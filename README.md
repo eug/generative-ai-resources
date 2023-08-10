@@ -62,6 +62,7 @@
 - [RootbeerComputer/backend-GPT](https://github.com/RootbeerComputer/backend-GPT) - N/A
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic 
 - [kxxt/chatgpt-action](https://github.com/kxxt/chatgpt-action) - N/A
+- [jamesmurdza/awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools)
 
 ### Data Analysis
 - [OKUA1/falcon](https://github.com/OKUA1/falcon) - A lightweight AutoML library.
