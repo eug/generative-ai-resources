@@ -74,3 +74,4 @@
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - N/A
 - [LLM Numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM Developer should know
 - [What we knwo about LLMs](https://willthompson.name/what-we-know-about-llms-primer)
+- [LLM Patterns](https://eugeneyan.com/writing/llm-patterns) - Patterns for Building LLM-based Systems & Products
