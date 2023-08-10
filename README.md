@@ -23,6 +23,7 @@
 - [ggerganov/ggml](https://github.com/ggerganov/ggml) - N/A
 - [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code) - N/A
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - N/A
+- [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla)
 
 ### Vector Database
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - The AI-native open-source embedding database
