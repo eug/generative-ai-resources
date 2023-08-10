@@ -72,6 +72,9 @@
 - [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - N/A
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - N/A
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - N/A
+
+### Articles
 - [LLM Numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM Developer should know
 - [What we knwo about LLMs](https://willthompson.name/what-we-know-about-llms-primer)
 - [LLM Patterns](https://eugeneyan.com/writing/llm-patterns) - Patterns for Building LLM-based Systems & Products
+- [Fine-tuning LLMs](https://lucaspauker.com/articles/llms-unleashed-the-power-of-fine-tuning) - LLMs Unleashed: The Power of Fine-Tuning
