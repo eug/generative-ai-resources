@@ -45,13 +45,13 @@
 - [ShreyaR/guardrails](https://github.com/ShreyaR/guardrails) - Adding guardrails to large language models.
 - [hegelai/prompttools](https://github.com/hegelai/prompttools) - Tools for prompt testing and experimentation, with support for both LLMs
 
-
 ### Platform
 - [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - A Server for Artificial Intelligence Logic. Enabling developers to ship to production AI-powered projects
 - [LangSmith](https://smith.langchain.com/) - N/A
-  
+- [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - N/A
+
 ### Software Development
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [shobrook/adrenaline](https://github.com/shobrook/adrenaline) - Talk to your codebase
