@@ -41,15 +41,15 @@
 - [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - Langflow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - Run large language models at home, BitTorrent-style. 
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - An experimental AI framework for automated short/video content creation.
-- [langsmith](https://www.langchain.com/langsmith) -  A unified platform for debugging, testing, evaluating, and monitoring your LLM applications.
 - [ShreyaR/guardrails](https://github.com/ShreyaR/guardrails) - Adding guardrails to large language models.
 - [hegelai/prompttools](https://github.com/hegelai/prompttools) - Tools for prompt testing and experimentation, with support for both LLMs
-
+- [CambioML/pykoi](https://github.com/CambioML/pykoi) - Active learning in one unified interface
+  
 ### Platform
 - [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - A Server for Artificial Intelligence Logic. Enabling developers to ship to production AI-powered projects
-- [LangSmith](https://smith.langchain.com/) - N/A
+- [LangSmith](https://smith.langchain.com/) - A unified platform for debugging, testing, evaluating, and monitoring your LLM applications.
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - N/A
 
 ### Software Development
@@ -65,13 +65,14 @@
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic 
 - [kxxt/chatgpt-action](https://github.com/kxxt/chatgpt-action) - N/A
 - [jamesmurdza/awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools)
-- [CambioML/pykoi](https://github.com/CambioML/pykoi) - Active learning in one unified interface 
+
 
 ### Data Analysis
 - [OKUA1/falcon](https://github.com/OKUA1/falcon) - A lightweight AutoML library.
 - [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making data frames conversational
 - [iryna-kondr/scikit-llm](https://github.com/iryna-kondr/scikit-llm) - Seamlessly integrate powerful language models like ChatGPT into scikit-learn for enhanced text analysis tasks.
 - [psychic-api/psychic](https://github.com/psychic-api/psychic) - Data integration platform for LLMs.
+- [ToolBench](https://github.com/OpenBMB/ToolBench) - An open platform for training, serving, and evaluating large language model for tool learning. 
 
 ### Lists
 - [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - N/A
