@@ -65,6 +65,7 @@
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic 
 - [kxxt/chatgpt-action](https://github.com/kxxt/chatgpt-action) - N/A
 - [jamesmurdza/awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools)
+- [CambioML/pykoi](https://github.com/CambioML/pykoi) - Active learning in one unified interface 
 
 ### Data Analysis
 - [OKUA1/falcon](https://github.com/OKUA1/falcon) - A lightweight AutoML library.
