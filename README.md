@@ -24,6 +24,9 @@
 - [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code) - N/A
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - N/A
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla)
+- [ToolBench](https://github.com/OpenBMB/ToolBench)
+- [fastrepl](https://github.com/fastrepl/fastrepl)
+- [restGPT](https://restgpt.github.io/)
 
 ### Vector Database
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - The AI-native open-source embedding database
