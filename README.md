@@ -47,10 +47,12 @@
 - [ShreyaR/guardrails](https://github.com/ShreyaR/guardrails) - Adding guardrails to large language models.
 - [hegelai/prompttools](https://github.com/hegelai/prompttools) - Tools for prompt testing and experimentation, with support for both LLMs
 - [CambioML/pykoi](https://github.com/CambioML/pykoi) - Active learning in one unified interface
-  
+
+
 ### Platform
 - [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents
+- [embedchain/embedchain](https://github.com/embedchain/embedchain) - Data platform for LLMs - Load, index, retrieve and sync any unstructured data 
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - A Server for Artificial Intelligence Logic. Enabling developers to ship to production AI-powered projects
 - [LangSmith](https://smith.langchain.com/) - A unified platform for debugging, testing, evaluating, and monitoring your LLM applications.
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - N/A
