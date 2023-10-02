@@ -87,6 +87,7 @@
 
 ### Agents
 - [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications
+- [](https://github.com/daveshap/ACE_Framework) - Autonomous Cognitive Entity Framework
 
 ### Lists
 - [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers)
