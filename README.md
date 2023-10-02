@@ -92,6 +92,7 @@
 - [Open-Swarm-Net/GPT-Swarm](https://github.com/Open-Swarm-Net/GPT-Swarm) - GPT-Swarm is an open-source project that harnesses the power of swarm intelligence to enhance the capabilities of SOTA LLMs.
 - [Paitesanshi/LLM-Agent-Survey](https://github.com/Paitesanshi/LLM-Agent-Survey) - A Survey on LLM-based Autonomous Agents
 
+
 ### Lists
 - [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers)
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)
@@ -104,3 +105,4 @@
 - [What we knwo about LLMs](https://willthompson.name/what-we-know-about-llms-primer)
 - [LLM Patterns](https://eugeneyan.com/writing/llm-patterns) - Patterns for Building LLM-based Systems & Products
 - [Fine-tuning LLMs](https://lucaspauker.com/articles/llms-unleashed-the-power-of-fine-tuning) - LLMs Unleashed: The Power of Fine-Tuning
+- [WooooDyy/LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) - The Rise and Potential of Large Language Model Based Agents: A Survey
