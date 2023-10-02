@@ -50,6 +50,7 @@
 - [hegelai/prompttools](https://github.com/hegelai/prompttools) - Tools for prompt testing and experimentation, with support for both LLMs
 - [CambioML/pykoi](https://github.com/CambioML/pykoi) - Active learning in one unified interface
 - [Ironclad/rivet](https://github.com/Ironclad/rivet) The open-source visual AI programming environment and TypeScript library
+- [getzep/zep](https://github.com/getzep/zep) - Fast, scalable building blocks for production LLM apps
 
 ### Platform
 - [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
