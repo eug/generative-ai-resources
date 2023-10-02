@@ -88,6 +88,7 @@
 - [ToolBench](https://github.com/OpenBMB/ToolBench) - An open platform for training, serving, and evaluating large language model for tool learning. 
 
 ### Agents
+- [aiwaves-cn/agents](https://github.com/aiwaves-cn/agents) - An Open-source Framework for Autonomous Language Agents
 - [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications
 - [daveshap/ACE_Framework](https://github.com/daveshap/ACE_Framework) - Autonomous Cognitive Entity Framework
 - [Open-Swarm-Net/GPT-Swarm](https://github.com/Open-Swarm-Net/GPT-Swarm) - GPT-Swarm is an open-source project that harnesses the power of swarm intelligence to enhance the capabilities of SOTA LLMs.
