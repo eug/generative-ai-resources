@@ -27,6 +27,7 @@
 - [ToolBench](https://github.com/OpenBMB/ToolBench)
 - [fastrepl](https://github.com/fastrepl/fastrepl)
 - [restGPT](https://restgpt.github.io/)
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs 
 
 ### Vector Database
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - The AI-native open-source embedding database
@@ -41,6 +42,7 @@
 - [neuml/txtai](https://github.com/neuml/txtai) - Semantic search and workflows powered by language models.
 - [microsoft/guidance](https://github.com/microsoft/guidance) - A guidance language for controlling large language models.
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - Building applications with LLMs through composability
+- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) - A data framework for your LLM applications 
 - [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - Langflow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - Run large language models at home, BitTorrent-style. 
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - An experimental AI framework for automated short/video content creation.
@@ -56,6 +58,11 @@
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - A Server for Artificial Intelligence Logic. Enabling developers to ship to production AI-powered projects
 - [LangSmith](https://smith.langchain.com/) - A unified platform for debugging, testing, evaluating, and monitoring your LLM applications.
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - N/A
+- [jina-ai/jina](https://github.com/jina-ai/jina) - Build multimodal AI applications with cloud-native stack
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow.
+- [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - Open-source, developer-first LLMOps platform designed to streamline prompt design
+- [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation for LLMs.
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production 
 
 ### Software Development
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
@@ -71,7 +78,6 @@
 - [kxxt/chatgpt-action](https://github.com/kxxt/chatgpt-action) - N/A
 - [jamesmurdza/awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools)
 
-
 ### Data Analysis
 - [OKUA1/falcon](https://github.com/OKUA1/falcon) - A lightweight AutoML library.
 - [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making data frames conversational
@@ -79,10 +85,15 @@
 - [psychic-api/psychic](https://github.com/psychic-api/psychic) - Data integration platform for LLMs.
 - [ToolBench](https://github.com/OpenBMB/ToolBench) - An open platform for training, serving, and evaluating large language model for tool learning. 
 
+### Agents
+- [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications
+
 ### Lists
-- [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - N/A
-- [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - N/A
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - N/A
+- [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers)
+- [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+- [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps)
+- [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference)
 
 ### Articles
 - [LLM Numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM Developer should know
