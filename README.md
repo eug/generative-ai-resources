@@ -28,6 +28,7 @@
 - [fastrepl](https://github.com/fastrepl/fastrepl)
 - [restGPT](https://restgpt.github.io/)
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs 
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Use any LLM as a drop in replacement for GPT.
 
 ### Vector Database
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - The AI-native open-source embedding database
