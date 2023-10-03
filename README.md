@@ -75,10 +75,14 @@
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo 
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+- [smol-ai/developer](https://github.com/smol-ai/developer) - Embed a developer agent in your own app
 - [RootbeerComputer/backend-GPT](https://github.com/RootbeerComputer/backend-GPT) - N/A
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic 
 - [kxxt/chatgpt-action](https://github.com/kxxt/chatgpt-action) - N/A
 - [jamesmurdza/awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools)
+- [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) - Task-Driven Autonomous Agent
+
+
 
 ### Data Analysis
 - [OKUA1/falcon](https://github.com/OKUA1/falcon) - A lightweight AutoML library.
