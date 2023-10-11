@@ -97,7 +97,7 @@
 - [daveshap/ACE_Framework](https://github.com/daveshap/ACE_Framework) - Autonomous Cognitive Entity Framework
 - [Open-Swarm-Net/GPT-Swarm](https://github.com/Open-Swarm-Net/GPT-Swarm) - GPT-Swarm is an open-source project that harnesses the power of swarm intelligence to enhance the capabilities of SOTA LLMs.
 - [Paitesanshi/LLM-Agent-Survey](https://github.com/Paitesanshi/LLM-Agent-Survey) - A Survey on LLM-based Autonomous Agents
-
+- [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming.
 
 ### Lists
 - [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers)
