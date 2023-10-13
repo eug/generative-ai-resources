@@ -35,6 +35,7 @@
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Vector Database for the next generation of AI applications.
 - [plasticityai/magnitude](https://github.com/plasticityai/magnitude)
 - [milvus-io/milvus](https://github.com/milvus-io/milvus)
+- [pgvector/pgvector](https://github.com/pgvector/pgvector)
 
 ### Tools
 - [showlab/VLog](https://github.com/showlab/VLog) - Transform Video as a Document with ChatGPT, CLIP, BLIP2, GRIT, Whisper, LangChain.
