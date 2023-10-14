@@ -80,8 +80,7 @@
 - [RootbeerComputer/backend-GPT](https://github.com/RootbeerComputer/backend-GPT) - N/A
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic 
 - [kxxt/chatgpt-action](https://github.com/kxxt/chatgpt-action) - N/A
-- [jamesmurdza/awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools)
-- [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) - Task-Driven Autonomous Agent
+
 
 
 
@@ -99,14 +98,17 @@
 - [Open-Swarm-Net/GPT-Swarm](https://github.com/Open-Swarm-Net/GPT-Swarm) - GPT-Swarm is an open-source project that harnesses the power of swarm intelligence to enhance the capabilities of SOTA LLMs.
 - [Paitesanshi/LLM-Agent-Survey](https://github.com/Paitesanshi/LLM-Agent-Survey) - A Survey on LLM-based Autonomous Agents
 - [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming.
-
+- [AI-Engineer-Foundation/agent-protocol](https://github.com/AI-Engineer-Foundation/agent-protocol) - Common interface for interacting with AI agents.
+- [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) - Task-Driven Autonomous Agent
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea
 ### Lists
 - [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers)
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 - [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps)
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference)
-
+- [jamesmurdza/awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools)
+- 
 ### Articles
 - [LLM Numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM Developer should know
 - [What we knwo about LLMs](https://willthompson.name/what-we-know-about-llms-primer)
