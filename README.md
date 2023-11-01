@@ -115,3 +115,4 @@
 - [LLM Patterns](https://eugeneyan.com/writing/llm-patterns) - Patterns for Building LLM-based Systems & Products
 - [Fine-tuning LLMs](https://lucaspauker.com/articles/llms-unleashed-the-power-of-fine-tuning) - LLMs Unleashed: The Power of Fine-Tuning
 - [WooooDyy/LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) - The Rise and Potential of Large Language Model Based Agents: A Survey
+- [State of GPT 2023](https://karpathy.ai/stateofgpt.pdf) - Overview about GPT
