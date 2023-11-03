@@ -108,7 +108,8 @@
 - [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps)
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference)
 - [jamesmurdza/awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools)
-- 
+- [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - A curated list of Large Language Model
+  
 ### Articles
 - [LLM Numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM Developer should know
 - [What we knwo about LLMs](https://willthompson.name/what-we-know-about-llms-primer)
