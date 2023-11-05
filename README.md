@@ -81,9 +81,6 @@
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic 
 - [kxxt/chatgpt-action](https://github.com/kxxt/chatgpt-action) - N/A
 
-
-
-
 ### Data Analysis
 - [OKUA1/falcon](https://github.com/OKUA1/falcon) - A lightweight AutoML library.
 - [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making data frames conversational
@@ -114,6 +111,7 @@
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - A curated list of Large Language Model
   
 ### Articles
+- [pchunduri6/rag-demystified](https://github.com/pchunduri6/rag-demystified) - An LLM-powered advanced RAG pipeline built from scratch.
 - [LLM Numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM Developer should know
 - [What we knwo about LLMs](https://willthompson.name/what-we-know-about-llms-primer)
 - [LLM Patterns](https://eugeneyan.com/writing/llm-patterns) - Patterns for Building LLM-based Systems & Products
