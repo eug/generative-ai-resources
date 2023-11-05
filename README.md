@@ -50,11 +50,13 @@
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - An experimental AI framework for automated short/video content creation.
 - [ShreyaR/guardrails](https://github.com/ShreyaR/guardrails) - Adding guardrails to large language models.
 - [hegelai/prompttools](https://github.com/hegelai/prompttools) - Tools for prompt testing and experimentation, with support for both LLMs
-- [CambioML/pykoi](https://github.com/CambioML/pykoi) - Active learning in one unified interface
-- [Ironclad/rivet](https://github.com/Ironclad/rivet) The open-source visual AI programming environment and TypeScript library
-- [getzep/zep](https://github.com/getzep/zep) - Fast, scalable building blocks for production LLM apps
-- [jxnl/instructor](https://github.com/jxnl/instructor) - Openai function calls for humans
-- [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Effortlessly discover API behaviour
+- [CambioML/pykoi](https://github.com/CambioML/pykoi) - Active learning in one unified interface.
+- [Ironclad/rivet](https://github.com/Ironclad/rivet) The open-source visual AI programming environment and TypeScript library.
+- [getzep/zep](https://github.com/getzep/zep) - Fast, scalable building blocks for production LLM apps.
+- [jxnl/instructor](https://github.com/jxnl/instructor) - Openai function calls for humans.
+- [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Effortlessly discover API behaviour.
+- [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Teaching LLMs memory management for unbounded context.
+
 
 ### Platform
 - [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
