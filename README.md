@@ -113,7 +113,8 @@
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference)
 - [jamesmurdza/awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools)
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - A curated list of Large Language Model
-  
+- [microsoft/LMOps](https://github.com/microsoft/LMOps)
+
 ### Articles
 - [pchunduri6/rag-demystified](https://github.com/pchunduri6/rag-demystified) - An LLM-powered advanced RAG pipeline built from scratch.
 - [LLM Numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM Developer should know
