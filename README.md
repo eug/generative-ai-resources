@@ -101,6 +101,9 @@
 - [AI-Engineer-Foundation/agent-protocol](https://github.com/AI-Engineer-Foundation/agent-protocol) - Common interface for interacting with AI agents.
 - [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) - Task-Driven Autonomous Agent
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea
+- [xlang-ai/OpenAgents](https://github.com/xlang-ai/OpenAgents) - An Open Platform for Language Agents in the Wild
+
+  
 ### Lists
 - [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers)
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)
