@@ -120,3 +120,4 @@
 - [Fine-tuning LLMs](https://lucaspauker.com/articles/llms-unleashed-the-power-of-fine-tuning) - LLMs Unleashed: The Power of Fine-Tuning
 - [WooooDyy/LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) - The Rise and Potential of Large Language Model Based Agents: A Survey
 - [State of GPT 2023](https://karpathy.ai/stateofgpt.pdf) - Overview about GPT
+- [LLM Attacks](https://github.com/llm-attacks/llm-attacks) - Universal and Transferable Adversarial Attacks on Aligned Language Models
