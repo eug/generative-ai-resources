@@ -124,3 +124,4 @@
 - [WooooDyy/LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) - The Rise and Potential of Large Language Model Based Agents: A Survey
 - [State of GPT 2023](https://karpathy.ai/stateofgpt.pdf) - Overview about GPT
 - [LLM Attacks](https://github.com/llm-attacks/llm-attacks) - Universal and Transferable Adversarial Attacks on Aligned Language Models
+- [Anti-hype LLM reading list](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e) - Links that are reasonable and good explanations of how stuff works
