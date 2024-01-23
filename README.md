@@ -57,7 +57,8 @@
 - [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Effortlessly discover API behaviour.
 - [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Teaching LLMs memory management for unbounded context.
 - [ishan0102/vimGPT](https://github.com/ishan0102/vimGPT) - Browse the web with GPT-4V and Vimium
-
+- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)
+  
 ### Platform
 - [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents
