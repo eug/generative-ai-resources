@@ -116,7 +116,8 @@
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - A curated list of Large Language Model
 - [microsoft/LMOps](https://github.com/microsoft/LMOps)
 - [johnnyhwu/Awesome-LLM-Tabular](https://github.com/johnnyhwu/Awesome-LLM-Tabular) - A curated list of Large Language Model applied to Tabular Data.
-- 
+- [uybery/Awesome-Code-LLM](https://github.com/huybery/Awesome-Code-LLM)
+  
 ### Articles
 - [pchunduri6/rag-demystified](https://github.com/pchunduri6/rag-demystified) - An LLM-powered advanced RAG pipeline built from scratch.
 - [LLM Numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM Developer should know
@@ -127,3 +128,4 @@
 - [State of GPT 2023](https://karpathy.ai/stateofgpt.pdf) - Overview about GPT
 - [LLM Attacks](https://github.com/llm-attacks/llm-attacks) - Universal and Transferable Adversarial Attacks on Aligned Language Models
 - [Anti-hype LLM reading list](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e) - Links that are reasonable and good explanations of how stuff works
+- [What LLM to use?](https://github.com/continuedev/what-llm-to-use)
